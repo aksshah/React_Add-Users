@@ -1,4 +1,4 @@
-Simple React app which takes user's name and age and add it to the list of users.
+Simple React app which takes user's details, and add it to the list of users.
 Shows error modal on invalid inputs.
 
 
